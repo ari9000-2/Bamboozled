@@ -1,7 +1,10 @@
+"the best game ever" according to Chandler 
+
 made for F.R.I.E.N.D.S fans
 
-8.22 simple quiz function
+8.22 simple quiz function, try again button(modal segue), added pictures(image view)，initial interface
 
-TODO: initial interface, menu screen, accummulated points, move stack down, back to the menu after finished,Joey's voice, wickled wango card, google card etc. Bug: could swipe down to return to the last question
+TODO: accummulated points, move stack down,Joey's voice, wickled wango card, google card, input database
+Bug: could swipe down to return to the last question
 
 Note: there is already a Bamboozled game in app store (£0.99)
